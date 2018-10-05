@@ -369,7 +369,12 @@ var _baseTemplate = {
     "grid": {},
     "dice": {
         "defaults": [
-            "d20"
+            "d20",
+            "d12",
+            "d10",
+            "d8",
+            "d6",
+            "d4"
         ],
         "modifiers": [
             0,
